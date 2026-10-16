@@ -33,8 +33,8 @@ The experiments in this repository cover topics such as:
 DBMS_Practical_file
 ├── Experiment-1
 ├── Experiment-2.sql
-├── Experiment-3.pdf
-├── Experiment-4.pdf
+├── Experiment-3.sql
+├── Experiment-4.sql
 ├── ...
 │
 └── README.md
